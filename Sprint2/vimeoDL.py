@@ -1,3 +1,20 @@
+#Overview
+#This script allows you to download videos from Vimeo by simply providing the video URL. It utilizes the vimeo-downloader Python package to handle the downloading process.
+
+#Prerequisites
+#Python: The script requires Python to be installed. You can download and install Python from the official website.
+
+#Installation
+#To install the required Python package, run the following command in your terminal or command prompt:
+
+#pip3 install vimeo-downloader
+
+#Usage
+#Copy the Vimeo video URL that you want to download.
+#Run the script and paste the video URL when prompted.
+#The script will download the video to your current directory.
+
+
 from vimeo_downloader import Vimeo
 
 # Initialize Vimeo object with video URL
