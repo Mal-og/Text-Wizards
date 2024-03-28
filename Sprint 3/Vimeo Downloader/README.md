@@ -1,5 +1,5 @@
 p# Vimeo_Video_Downloader_App
-Python App for download video from Vimeo platform
+Python App for downloading video from Vimeo
 #Overview
 This App allows you to easily download videos from Vimeo by simply providing the video URL. It utilizes the vimeo-downloader Python package to handle the downloading process.
 
@@ -21,7 +21,7 @@ Run the script and paste the video URL and click the process button.
 The script will download the video to your current directory.
 
 #Example
-for run this script
+to run this script
 bash/cmd 
 cd directory
 
