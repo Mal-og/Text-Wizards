@@ -21,7 +21,7 @@ Run the script and paste the video URL and click the process button.
 The script will download the video to your current directory.
 
 #Example
-for run this script
+to run this script
 bash/cmd 
 cd directory
 
